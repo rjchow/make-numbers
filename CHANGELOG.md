@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/rjchow/make-numbers/compare/v1.0.0...v1.1.0) (2020-10-21)
+
+
+### Features
+
+* added weibull distribution ([8627402](https://github.com/rjchow/make-numbers/commit/86274027b9cf85a33c7550b0a9b636fad1e8c503))
+* added weibull distribution ([d62afc9](https://github.com/rjchow/make-numbers/commit/d62afc991ed01a1cd3e251c1715c95d2f43bf2f7))
+
 # 1.0.0 (2020-10-21)
 
 
