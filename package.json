@@ -1,14 +1,12 @@
 {
-  "name": "@rjchow/nod",
-  "version": "1.8.0",
-  "description": "My node module",
+  "name": "make-numbers",
+  "version": "0.0.1",
+  "description": "Random Variate generation library",
   "license": "MIT",
-  "repository": "rjchow/nod",
+  "repository": "rjchow/make-numbers",
   "main": "dist/index.js",
   "author": {
-    "name": "Diego Haz",
-    "email": "hazdiego@gmail.com",
-    "url": "https://github.com/diegohaz"
+    "name": "RJChow"
   },
   "files": [
     "dist",
@@ -50,7 +48,8 @@
     "generator-nod"
   ],
   "dependencies": {
-    "debug": "4.2.0"
+    "debug": "4.2.0",
+    "seedrandom": "3.0.5"
   },
   "devDependencies": {
     "@babel/cli": "7.12.1",
@@ -65,6 +64,7 @@
     "@commitlint/prompt": "11.0.0",
     "@ls-age/commitlint-circle": "1.0.0",
     "@types/debug": "4.1.5",
+    "@types/seedrandom": "2.4.28",
     "@types/jest": "26.0.14",
     "@typescript-eslint/eslint-plugin": "4.4.1",
     "@typescript-eslint/parser": "4.4.1",
