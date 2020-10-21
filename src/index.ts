@@ -26,3 +26,9 @@ export const triangular = (mode: number, left: number, right: number) => {
   }
   return right - Math.sqrt((1 - U) * (right - left) * (right - mode));
 };
+
+export const weibull = (lambda: number, k: number) => {
+  const U = getRng()();
+
+  return lambda * (-Math.log(1 - U)) ** (1 / k);
+};
