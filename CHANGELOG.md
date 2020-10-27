@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/rjchow/make-numbers/compare/v1.1.0...v1.2.0) (2020-10-27)
+
+
+### Features
+
+* added normal box-muller method ([67d8642](https://github.com/rjchow/make-numbers/commit/67d8642217bcb0a4a373b8d1cd5de0fa28d06d5f))
+* added normal box-muller method ([050cd64](https://github.com/rjchow/make-numbers/commit/050cd6433c1344120f23618c63125daa1334ba1e))
+
 # [1.1.0](https://github.com/rjchow/make-numbers/compare/v1.0.0...v1.1.0) (2020-10-21)
 
 
