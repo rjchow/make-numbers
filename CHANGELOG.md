@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/rjchow/make-numbers/compare/v1.3.0...v1.4.0) (2020-11-16)
+
+
+### Features
+
+* added geometric ([74f3658](https://github.com/rjchow/make-numbers/commit/74f36584795d0fb39e732ccbffc960150fefa015))
+
 # [1.3.0](https://github.com/rjchow/make-numbers/compare/v1.2.0...v1.3.0) (2020-11-16)
 
 
