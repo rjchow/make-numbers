@@ -8,6 +8,7 @@ describe("Geometric Distribution", () => {
     const vals = fillArray(100000, () => geometric(p));
     expect(mean(vals) - 1 / p).toBeLessThanOrEqual(0.1);
   });
+
   test("variance should be (1-p)/p**2", () => {
     const p = 0.3;
     const vals = fillArray(100000, () => geometric(p));

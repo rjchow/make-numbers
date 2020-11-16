@@ -2,7 +2,7 @@ import { mean, variance } from "jstat";
 import { erlang } from "../src/erlang";
 import { fillArray } from "../src/util/fillArray";
 
-describe("Geometric Distribution", () => {
+describe("Erlang Distribution", () => {
   test("mean should be k/lambda", () => {
     const k = 2;
     const lambda = 4;
