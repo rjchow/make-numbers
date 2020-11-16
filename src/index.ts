@@ -1,21 +1,6 @@
-import { getLogger } from "./util/logger";
 import { getRng } from "./random";
 
 export { getRng, setSeed } from "./random";
-
-const { trace } = getLogger("sayHello");
-
-/**
- * This function says hello.
- * @param name Some name to say hello for.
- * @returns The hello.
- */
-const sayHello = (name: string = "Haz"): string => {
-  trace("I'm working!");
-  return `Hello, ${name}!`;
-};
-
-export default sayHello;
 
 export const triangular = (mode: number, left: number, right: number) => {
   const U = getRng()();
@@ -56,19 +41,5 @@ export const normal = (
   throw new Error("Invalid Normal Distribution Generator");
 };
 
-/**
- * The Erlang distribution is a generalisation of the exponential distribution.
- * While the exponential random variable describes the time between adjacent events,
- * the Erlang random variable describes the time interval between any event and the nth following event.
- *
- * @param n shape
- * @param lambda rate
- */
-export const erlang = (n: number, lambda: number) => {
-  const rng = getRng();
-  return Math.log([...Array(n).keys()].reduce((acc) => acc * rng(), 1)) * (-1 / lambda);
-};
-
-export const fillArray = (count: any, generatorFunction: any) => {
-  return [...Array(count).keys()].map(generatorFunction);
-};
+export * from "./geometric";
+export * from "./erlang";

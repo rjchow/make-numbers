@@ -42,6 +42,7 @@
   "rules": {
     "import/extensions": "off",
     "no-shadow": "off", // replaced by ts-eslint rule below
-    "@typescript-eslint/no-shadow": "error"
+    "@typescript-eslint/no-shadow": "error",
+    "import/prefer-default-export": "off"
   }
 }

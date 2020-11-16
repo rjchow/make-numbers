@@ -49,6 +49,7 @@
   ],
   "dependencies": {
     "debug": "4.2.0",
+    "jstat": "1.9.4",
     "seedrandom": "3.0.5"
   },
   "devDependencies": {
