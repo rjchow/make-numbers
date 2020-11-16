@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/rjchow/make-numbers/compare/v1.4.0...v1.5.0) (2020-11-16)
+
+
+### Features
+
+* added exponential distribution ([36591a1](https://github.com/rjchow/make-numbers/commit/36591a185a110005ee9bc3427705fec577569c37))
+
 # [1.4.0](https://github.com/rjchow/make-numbers/compare/v1.3.0...v1.4.0) (2020-11-16)
 
 
