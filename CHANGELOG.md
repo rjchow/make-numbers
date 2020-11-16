@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/rjchow/make-numbers/compare/v1.2.0...v1.3.0) (2020-11-16)
+
+
+### Features
+
+* added erlang distribution ([f7f0a2b](https://github.com/rjchow/make-numbers/commit/f7f0a2bf0ac84fbdafb234e37b1f042d850bf902))
+* added erlang distribution ([9651dab](https://github.com/rjchow/make-numbers/commit/9651dab0452dd0ffd8c956a8ef6982112763f94f))
+
 # [1.2.0](https://github.com/rjchow/make-numbers/compare/v1.1.0...v1.2.0) (2020-10-27)
 
 
