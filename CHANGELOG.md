@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/rjchow/make-numbers/compare/v1.7.0...v1.8.0) (2020-11-22)
+
+
+### Features
+
+* added poisson ([745d01b](https://github.com/rjchow/make-numbers/commit/745d01ba6b806c6e8e0cb0aaabfcd9428e1053b6))
+
 # [1.7.0](https://github.com/rjchow/make-numbers/compare/v1.6.0...v1.7.0) (2020-11-22)
 
 
