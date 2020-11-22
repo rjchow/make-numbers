@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/rjchow/make-numbers/compare/v1.6.0...v1.7.0) (2020-11-22)
+
+
+### Features
+
+* added negative binomial ([352c87d](https://github.com/rjchow/make-numbers/commit/352c87d11fabe1196e0a8bf9d6100b08254d585c))
+
 # [1.6.0](https://github.com/rjchow/make-numbers/compare/v1.5.0...v1.6.0) (2020-11-22)
 
 
