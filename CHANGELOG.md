@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/rjchow/make-numbers/compare/v1.8.0...v1.9.0) (2020-11-22)
+
+
+### Features
+
+* moved triangular and weibull out of index ([e7c4265](https://github.com/rjchow/make-numbers/commit/e7c4265bc7e12b1f5be65d8b7f25a25496a9b17a))
+
 # [1.8.0](https://github.com/rjchow/make-numbers/compare/v1.7.0...v1.8.0) (2020-11-22)
 
 
