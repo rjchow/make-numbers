@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/rjchow/make-numbers/compare/v1.5.0...v1.6.0) (2020-11-22)
+
+
+### Features
+
+* added test for normal distn ([81f5115](https://github.com/rjchow/make-numbers/commit/81f511538bd3790b559c9b12c2b2c98efe567ce6))
+
 # [1.5.0](https://github.com/rjchow/make-numbers/compare/v1.4.0...v1.5.0) (2020-11-16)
 
 
