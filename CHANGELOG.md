@@ -1,3 +1,11 @@
+# [1.10.0](https://github.com/rjchow/make-numbers/compare/v1.9.0...v1.10.0) (2020-11-22)
+
+
+### Features
+
+* update readme for api ([077b7ba](https://github.com/rjchow/make-numbers/commit/077b7ba7fb7b4723d3b39ea0fdc17c3eef6304fe))
+* updated readme ([a9056ad](https://github.com/rjchow/make-numbers/commit/a9056ad8218916550484c31153b188f06fe6ec63))
+
 # [1.9.0](https://github.com/rjchow/make-numbers/compare/v1.8.0...v1.9.0) (2020-11-22)
 
 
