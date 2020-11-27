@@ -7,3 +7,5 @@ export * from "./geometric";
 export * from "./erlang";
 export * from "./poisson";
 export * from "./negbin";
+export * from "./bernoulli";
+export * from "./binomial";

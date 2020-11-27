@@ -1,11 +1,11 @@
-const seedrandom = require("seedrandom");
+const Seedrandom = require("seedrandom");
 
 let seed = "";
-let rng = seedrandom(seed);
+let rng = new Seedrandom(seed);
 
 export const setSeed = (newSeed: string) => {
   seed = newSeed;
-  rng = seedrandom(seed);
+  rng = new Seedrandom(seed);
 };
 
 export const getRng = () => rng;
