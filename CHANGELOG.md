@@ -1,3 +1,11 @@
+# [1.11.0](https://github.com/rjchow/make-numbers/compare/v1.10.0...v1.11.0) (2020-11-29)
+
+
+### Features
+
+* added binomial and bernoulli ([185ed2b](https://github.com/rjchow/make-numbers/commit/185ed2b78cc51adbe60fee79b399006e5e4dddc4))
+* changed tests ([29427f4](https://github.com/rjchow/make-numbers/commit/29427f4223dfe139ad55e02ce9774ede318b575b))
+
 # [1.10.0](https://github.com/rjchow/make-numbers/compare/v1.9.0...v1.10.0) (2020-11-22)
 
 
