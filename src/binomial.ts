@@ -11,5 +11,5 @@ import { fillArray } from "./util/fillArray";
  * @param p probability
  */
 export const binomial = (n: number, p: number) => {
-  return fillArray(n, () => bernoulli(n)).reduce((prev, curr) => prev + curr, 0);
+  return fillArray(n, () => bernoulli(p)).reduce((prev, curr) => prev + curr, 0);
 };

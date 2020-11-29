@@ -11,5 +11,5 @@ import { getRng } from "./random";
  * @param p probability
  */
 export const bernoulli = (p: number) => {
-  return getRng()() > p ? 1 : 0;
+  return getRng()() < p ? 1 : 0;
 };
