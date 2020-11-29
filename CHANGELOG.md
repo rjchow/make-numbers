@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/rjchow/make-numbers/compare/v1.11.0...v1.12.0) (2020-11-29)
+
+
+### Features
+
+* added exponential to exports ([ff48af5](https://github.com/rjchow/make-numbers/commit/ff48af504b37593d66dfe6f45d929ef4ed881be5))
+
 # [1.11.0](https://github.com/rjchow/make-numbers/compare/v1.10.0...v1.11.0) (2020-11-29)
 
 
